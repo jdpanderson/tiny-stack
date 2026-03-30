@@ -1,0 +1,19 @@
+{
+    "name": "janderson/tiny-stack",
+    "description": "A tiny middleware stack dispatcher",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^13.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "files": ["src/stack.php"]
+    },
+    "authors": [
+        {
+            "name": "Jonathan Anderson",
+            "email": "janderson@janderson.ca"
+        }
+    ],
+    "require": {}
+}
