@@ -15,5 +15,8 @@
             "email": "janderson@janderson.ca"
         }
     ],
-    "require": {}
+    "require": {},
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    }
 }
